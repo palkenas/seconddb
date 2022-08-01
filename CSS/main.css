@@ -1,0 +1,52 @@
+/* .inputs{
+    display: inline-block;
+} */
+/* .form-inline{
+    display: inline-block;
+} */
+#container {
+    display: inline-block;
+} 
+.input{
+    display: inline-block !important;
+    width: 15% !important;
+}
+#input1{
+    display: inline-block !important;
+    width: 100% !important;
+}
+#input2{
+    display: inline-block !important;
+    width: 100% !important;
+}
+#input3{
+    display: inline-block !important;
+    width: 100% !important;
+}
+#input4{
+    display: inline-block !important;
+    width: 100% !important;
+}
+#input5{
+    display: inline-block !important;
+    width: 100% !important;
+}
+.btn-success {
+    margin-top: 40px;
+}
+
+#inputs{
+    display: inline-block !important;
+}
+#inputdiv1{
+    display: inline-block !important;
+    width: 200px;
+}
+.form-inline{
+    display: inline-block !important;
+    width: 100%;
+}
+.form-control{
+    display: inline-block !important;
+    width: 200px !important;
+}
